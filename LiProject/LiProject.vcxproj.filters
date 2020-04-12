@@ -19,9 +19,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="SQLScript.sql">
-      <Filter>Resource Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>
